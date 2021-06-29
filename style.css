@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #b1a5a5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+#icon {
+  padding: 0;
+}
+
+#icon .div1 {
+  width: 50px;
+  height: 20px;
+  background: white;
+  position: fixed;
+  right: 30px;
+  top: 50px;
+  z-index: 2;
+}
+
+#icon .div1 {
+  width: 50px;
+  height: 20px;
+  background: white;
+  position: fixed;
+  right: 30px;
+  top: 50px;
+  z-index: 2;
+}
+
+#icon .div1 {
+  width: 50px;
+  height: 20px;
+  background: white;
+  position: fixed;
+  right: 30px;
+  top: 50px;
+  z-index: 2;
+}
+
+#icon .navbar-toggler-icon {
+  position: fixed;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  top: 10px;
+  right: 10px;
+}
+
+.up, .down {
+  margin: 4em 6em;
+  width: 80%;
+  padding: 10px;
+  line-height: 40px;
+}
+
+.up h3, .down h3 {
+  font-size: 33px;
+  font-weight: 400;
+}
+
+.up p, .down p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #504949;
+}
+
+.up button, .down button {
+  background: black;
+  color: #b1a5a5;
+  padding: -5px;
+  width: 130px;
+  height: 35px;
+  border-radius: 30px;
+  font-weight: 400;
+}
+/*# sourceMappingURL=style.css.map */
